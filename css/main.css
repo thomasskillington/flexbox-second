@@ -97,7 +97,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background: url(../img/computer.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 
@@ -134,7 +134,8 @@ body {
 }
 
 #content p span {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 3rem;
 }
 
 
